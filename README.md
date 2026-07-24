@@ -11,11 +11,17 @@ Analytical and detail-oriented Data Analyst skilled in transforming complex raw 
 * **Data Analysis & Visualization:** Power BI, Tableau, Advanced Excel, Power Query
 * **Languages & Databases:** Python (Pandas), SQL, PostgreSQL
 * **Data Engineering & Workflow:** Data Cleaning, Data Modeling, Transformation, VBA
+* **AI & Analytics Automation:** LLM APIs, LangChain, Automated SQL Generation
 * **Other Technical Knowledge:** IT Infrastructure & SOC Analysis
 
 ---
 
 ### 🚀 Key Projects
+
+#### 🤖 [AI Business Analyst Assistant](https://github.com/YOUR-USERNAME)
+* **Tech:** Python, SQL, LangChain, LLM APIs, Power BI / Tableau
+* Built an AI assistant capable of converting natural language business queries into executable SQL queries to extract data dynamically.
+* Automated data fetching and analysis to deliver actionable root-cause insights and interactive visual reports.
 
 #### 🛒 [International E-Commerce Dynamic Pricing Engine](https://github.com/YOUR-USERNAME)
 * **Tech:** Python, PostgreSQL, Tableau
@@ -26,11 +32,6 @@ Analytical and detail-oriented Data Analyst skilled in transforming complex raw 
 * **Tech:** SQL, Python, Power BI
 * Engineered an inventory tracking solution monitoring stock levels, expiry alerts, and supplier performance.
 * Designed dynamic Power BI dashboards for real-time stock movement visibility.
-
-#### 🏢 [Office Asset & Maintenance Management System](https://github.com/YOUR-USERNAME)
-* **Tech:** Excel, VBA, Power Query
-* Created an automated tracking system for IT assets, maintenance schedules, and warranty statuses.
-* Used Power Query for data consolidation and built interactive Excel dashboards.
 
 ---
 
